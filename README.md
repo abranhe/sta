@@ -41,6 +41,14 @@ print(sta('this string is divided by spaces'))
 # => [ 'this', 'string', 'is', 'divided', 'by', 'spaces' ]
 ```
 
+# API
+
+### `sta('string')`
+
+> Return an array with each token
+
+**Return Type**: `list`
+
 # Related
 
 - [str-to-arr](https://github.com/abranhe/str-to-arr): convert an string into an array in JavaScript.
