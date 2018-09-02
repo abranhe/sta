@@ -9,7 +9,7 @@ setuptools.setup(
     packages = ["sta"],
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    version = "2.0.0",
+    version = "2.0.1",
     description = "Parse tokens from an string into an array",
     author = "Carlos Abraham",
     author_email = "abraham@abranhe.com",
